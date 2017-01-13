@@ -1,0 +1,10 @@
+body {
+  display: block;
+  margin: 0px;
+}
+
+.content-wrap {
+  padding: 35px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
