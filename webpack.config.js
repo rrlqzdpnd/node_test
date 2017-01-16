@@ -17,5 +17,8 @@ module.exports = {
         loader: 'babel'
       }
     ]
+  },
+  resolve: {
+    extensions: ['', '.js', '.jsx']
   }
 };
